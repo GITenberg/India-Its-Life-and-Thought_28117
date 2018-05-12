@@ -1,0 +1,30 @@
+_repo: India-Its-Life-and-Thought_28117
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, John P. (John Peter)
+    alias: Jones, John Peter
+    birthdate: 1847
+    deathdate: 1916
+    gutenberg_agent_id: '32583'
+    url: http://www.gutenberg.org/2009/agents/32583
+description: ''
+gutenberg_issued: '2009-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28117'
+  lccn: 08030291
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Religion'
+- !lcsh 'India -- Civilization'
+- !lcc 'DS'
+- !lcsh 'Missions -- India'
+title: India, Its Life and Thought
+url: http://www.gutenberg.org/ebooks/28117
